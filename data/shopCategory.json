@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "picture": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2021/04/Hot-Toys-Iron-Man-Origins-Collection-012.jpg",
+      "name": "Iron Man",
+      "price": 29.99,
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "picture": "https://m.media-amazon.com/images/I/71PFUD98hkL._SL1500_.jpg",
+      "name": "Captain America",
+      "price": 24.99,
+      "rating": 4.2
+    },
+    {
+      "id": "3",
+      "picture": "https://cdn.pixabay.com/photo/2016/01/13/17/10/super-1138512_640.png",
+      "name": "Thor",
+      "price": 27.99,
+      "rating": 4.8
+    },
+    {
+      "id": "4",
+      "picture": "https://cdn.pixabay.com/photo/2015/03/11/01/33/hulk-667988_640.jpg",
+      "name": "Hulk",
+      "price": 31.99,
+      "rating": 4.7
+    },
+    {
+      "id": "5",
+      "picture": "https://cdn.pixabay.com/photo/2018/12/21/21/14/yoda-3888783_640.jpg",
+      "name": "Yoda",
+      "price": 27.99,
+      "rating": 4.8
+    },
+    {
+      "id": "6",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVldFjqSB0mLst8WavXEcEYI6bUOme6i9l1w&usqp=CAU",
+      "name": "Han Solo",
+      "price": 31.99,
+      "rating": 4.7
+    }
+  ]
+  
