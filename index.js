@@ -30,7 +30,7 @@ const client = new MongoClient(uri, {
 async function run() {
   try {
  
-    await client.connect();
+    
 
     // Create a Toys Database and a collection 
     const toysCollection = client.db('ToyDB').collection('Toys');
